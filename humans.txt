@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yuval Yaari yyaari@gmail.com
+	
 
 # THANKS
 
